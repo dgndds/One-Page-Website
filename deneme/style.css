@@ -1,0 +1,184 @@
+.header{
+  height: 150px;
+}
+
+#logo{
+  width: 150px;
+  height: 150px;
+  float: left;
+}
+
+#loc{
+  width: 50px;
+  height: 50px;
+  float: right;
+}
+
+#title{
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  line-height: 2px;
+  padding-top: 45px;
+}
+
+#subtitle{
+  font-size: 15px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.logo{
+  height: 150px;
+  width: 45%;
+  float: left;
+}
+
+.address{
+  height: 150px;
+  width: 55%;
+  float: right;
+  padding-top: 50px;
+}
+
+.address-text{
+  float: right;
+  font-size: 5px;
+  font-family: 'Open Sans', sans-serif;
+  width: 100px;
+  height: 100px;
+  margin-left: 10px;
+}
+
+.nav-bar{
+  height: 45px;
+}
+
+#nav-list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+#nav-list li{
+  float: left;
+}
+
+#nav-list li a{
+  display: block;
+  text-align: center;
+  text-decoration: none;
+  padding: 14px 16px;
+  color: black;
+  border-radius: 5px;
+  font-family: 'Open Sans', sans-serif;
+  margin-right: 10px;
+}
+
+#nav-list li a:hover{
+  background-color: black;
+  border-radius: 10px;
+  font-family: 'Open Sans', sans-serif;
+  color: white;
+}
+
+#snowboard{
+  width: 1750px;
+  height: 550px;
+  background-image: url("images/snowboard.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: auto;
+}
+
+.snowboard-text{
+  text-align: center;
+  font-size: 10px;
+}
+
+.snowboard-text h1{
+  font-family: sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+.snowboard-text h2{
+  font-family: 'Open Sans', sans-serif;
+  margin-top: 35px;
+}
+
+.body{
+  padding-top: 35px;
+}
+
+#apartments{
+width:50%;
+float: left;
+}
+
+#apartments img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:95%;
+  height: 450px;
+}
+
+#lodges{
+  width:50%;
+  float: right;
+}
+
+.lodge{
+  margin-top: 45px;
+  overflow: auto;
+}
+
+#lodges img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:95%;
+  height: 450px;
+}
+
+#lodge-title{
+  font-size: 30px;
+  font-family: 'Open Sans', sans-serif;
+  margin-left: 1.2%;
+}
+
+.lodge-text{
+  margin-left: 2.5%;
+  margin-right: 2.5%;
+  font-family: 'Open Sans', sans-serif;
+  font-size: 15px;
+  line-height: 25px;
+}
+
+.lodge-title{
+  margin-left: 2.5%;
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.passion{
+  height: 100px;
+  overflow: auto;
+  height:1%;
+}
+
+.passion img{
+  float: left;
+  width: 32%;
+  height: 450px;
+}
+
+#passion-first{
+  margin-left: 1.2%;
+  margin-right: 0.8%;
+}
+#passion-middle{
+  margin-right: 0.8%;
+}
+#passion-last{
+  margin-right: 1.2%;
+}
